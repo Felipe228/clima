@@ -1,4 +1,5 @@
 # clima
+Para baixar os dados e entendê-los: https://sites.google.com/site/alexandrecandidoxavierufes/brazilian-daily-weather-gridded-data
 Códigos utilizados na extração de dados climáticos.
 Este projeto consiste em uma arquitetura de duas partes para análise de dados climáticos e visualização interativa. A API realiza a clusterização dos dados, enquanto o dashboard exibe os resultados.
 Tecnologias
